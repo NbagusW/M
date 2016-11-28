@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\filepaths.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\bundles\\debug\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\google_analytics_tracker.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\bundles\\debug\\res\\xml\\google_analytics_tracker.xml"
+    }
+]

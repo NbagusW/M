@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\T\\A\\citra\\ClientLib\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    }
+]
